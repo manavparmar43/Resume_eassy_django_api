@@ -1,0 +1,12 @@
+env/
+__pycache__/
+**.pyc**
+VIUW_backend/__pycache__
+account/__pycache__
+contact/__pycache__
+document/__pycache__
+document/migrations
+account/migrations
+document/migrations
+migrations/
+**.sqlite3
